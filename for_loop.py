@@ -10,6 +10,6 @@ for item in range(4,11,2):
     print(item) 
 prices=[10,20,30]     
 total=0      
-for price in prices:
+for price in prices:    
     total += price
 print(f"total: {total}")
